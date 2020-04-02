@@ -1,0 +1,66 @@
+
+.h1{
+  padding: 10px;
+  margin: 100px 450px 50px 450px;
+  border-radius: 50px;
+  text-align: center;
+  background: red;
+  color: white;
+  font-family: sans-serif;
+}
+.wrapper{
+  text-align: center;
+  padding-top: 20px;
+  padding: 10px;
+  font-family: sans-serif;
+
+}
+
+.button ,  {
+border:
+  position: absolute;
+top: 35%;
+
+}
+img{
+  position: absolute;
+top: 26%;
+}
+
+a { color:#666666;
+text-decoration:none;
+}
+
+a:hover { text-decoration : none;
+}
+
+a:hover , .Return{
+  text-decoration: none;
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: sans-serif;
+}
+.P-principale{
+  text-align: center;
+font-family: sans-serif;
+}
+.titolo{
+  font-size: 30px;
+}
+.photo1{
+  float: right;
+  margin-right: 550px;
+}
+.photo2{
+  float: left;
+  margin-left: 400px;
+}
+.para2{
+  margin-top: 60px;
+  text-align: center;
+font-family: sans-serif;
+}
